@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AddressConsultation.Domain\AddressConsultation.Domain.csproj" />
+    <ProjectReference Include="..\AddressConsultation.Infra\AddressConsultation.Infra.csproj" />
+    <ProjectReference Include="..\AddressConsultation.Persistence\AddressConsultation.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>
