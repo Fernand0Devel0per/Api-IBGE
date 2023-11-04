@@ -17,17 +17,17 @@ Bem-vindo à IBGE API, uma solução robusta para gerenciamento de endereços e 
 1. Clone o repositório para sua máquina local.
 2. Navegue até a pasta `Infra` e inicie os serviços do Docker com:
  
-     ``` docker-compose up -d ```
+       docker-compose up -d 
    
     Execute os esquemas do banco de dados na pasta SqlServer para configurar o SQL Server.
     Configure a string de conexão do SQL Server no arquivo appsettings.json.
     Restaure os pacotes necessários com:
 
- ``` dotnet restore ```
+        dotnet restore 
 
 Inicie a aplicação com:
 
-     ``` dotnet run ```
+      dotnet run 
 
 A API estará disponível em http://localhost:5000.
 
