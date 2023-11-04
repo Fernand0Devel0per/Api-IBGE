@@ -1,6 +1,6 @@
-# 🚀 Endereço e Usuário API
+# 🚀 IBGE API
 
-Bem-vindo à Endereço e Usuário API, uma solução robusta para gerenciamento de endereços e usuários, construída com ASP.NET 7.0 utilizando a abordagem Minimal API. A API é projetada com foco em práticas recomendadas como Clean Code e Clean Architecture, além de aderir aos princípios do Domain-Driven Design (DDD). Ela emprega autenticação JWT e faz uso de caching com Redis para um desempenho otimizado.
+Bem-vindo à IBGE API, uma solução robusta para gerenciamento de endereços e usuários, construída com ASP.NET 7.0 utilizando a abordagem Minimal API. A API é projetada com foco em práticas recomendadas como Clean Code e Clean Architecture, além de aderir aos princípios do Domain-Driven Design (DDD). Ela emprega autenticação JWT e faz uso de caching com Redis para um desempenho otimizado.
 
 # 🌟 Funcionalidades
 
